@@ -3,8 +3,7 @@ Admission Predication  is an app used to predict the Chance of Admission(%)
 # APP link   https://mladmissionprediction.herokuapp.com
 
 
-### The Followind Model Consist of Data with  Feature Column Serial No.	,GRE Score	,TOEFL Score	,University Rating ,	SOP	,LOR ,	CGPA	,Research	 
-### and Our Target Column Chance of Admit, DATA(500rows*9)
+### The Followind Model Consist of Data with  Feature Column Serial No.	,GRE Score	,TOEFL Score	,University Rating ,	SOP	,LOR ,	CGPA	,Research	 and Our Target Column Chance of Admit, DATA(500rows*9)
 
 * Data has some Missing values(1% to3%) so see the report - https://github.com/reddysrinath16/Admisson_PredictionML/blob/main/ReportAdmission.html
 * We have used mean as we dont want any data to be removed
