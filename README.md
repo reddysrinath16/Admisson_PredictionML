@@ -1,6 +1,6 @@
 # Admisson_PredictionML
 Admission Predication  is an app used to predict the Chance of Admission(%)
-# APP link   https://mladmissionprediction.herokuapp.com  #not Working At the Moment
+# APP link   https://mladmissionprediction.herokuapp.com  (not Working At the Moment)
 
 
 ### The Followind Model Consist of Data with  Feature Column Serial No.	,GRE Score	,TOEFL Score	,University Rating ,	SOP	,LOR ,	CGPA	,Research	 and Our Target Column Chance of Admit, DATA(500rows*9)
